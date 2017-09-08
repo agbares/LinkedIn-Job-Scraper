@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LinkedIn Job Scraper", "LinkedIn Job Scraper\LinkedIn Job Scraper.pyproj", "{201F3D4D-76AF-46DA-80AD-4C9D2D31F82A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{201F3D4D-76AF-46DA-80AD-4C9D2D31F82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201F3D4D-76AF-46DA-80AD-4C9D2D31F82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C559673-07E6-43DF-9077-E4BE3EA73B6F}
+	EndGlobalSection
+EndGlobal

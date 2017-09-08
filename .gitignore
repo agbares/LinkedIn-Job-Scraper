@@ -286,3 +286,5 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/LinkedIn Job Scraper/LinkedIn Job Scraper/._output.csv
+/LinkedIn Job Scraper/LinkedIn Job Scraper/output.csv
